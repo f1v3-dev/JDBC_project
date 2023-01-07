@@ -51,7 +51,7 @@ public class Main {
 ---
 
 # 구현 모습
-### 조회 버튼 실행 결과 (Select)
+### 조회 버튼 실행 결과 (select)
 ![image](https://user-images.githubusercontent.com/84575041/211155783-8f5496f8-bbb4-4487-9d29-87e8c1141ddb.png)
 
 
